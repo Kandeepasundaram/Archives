@@ -1,23 +1,3 @@
-Technical Evaluation:
-5★ – Excellent / 4★ – Good / 3★ – Average / 2★ – Below Average / 1★ – Poor
-1. Angular: 
-	a. [4] Core 
-	b. [4] Dynamic components
-	c. [4] Template & Reactive forms
-	d. [4] Observables & HttpClient 
-	
-	has good knowledge of the above angular concepts 
+Ganb is a strong back-end developer and completely working on all old portal technical work. He also started learning new technologies like Angular, AWS, lambda, Python, etc. He should continue to focus on all technical stuff and also learn technologies. He should lead newcomers and show his leadership quality. He will be planning for AWS solution architect or any other technical certification. He is part of a team where no onsite cognizant counterpart exists and it's a good opportunity for him to showcase his leadership skill.
 
-	c. [3] Component interaction
-	d. [3] Custom directives 
-
-	having lesser hands-on the above
-
-	e. [2] NGRX
-
-	No hands-on experience.  
-
-2. NodeJS: [4]
-
-
-Overall the candidate seems to be good in whatever he had some prior hands-on experience and can be trained to suit project requirements.
+Dann is a good team player. As a PA he started to take responsibility and lead the team for a few features even when there are senior persons in the team. He handled release as a single person from offshore. He is the one who works on new technologies in the team. He knows all the processes involved in the project which other team members lack. He excelled in all the technologies like AWS, Quarkus framework, Kotlin, and also AWS processes like lambda Dynamo DB, S3 bucket, and its features. He is a  fast learner.
