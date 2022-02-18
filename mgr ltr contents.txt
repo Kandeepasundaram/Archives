@@ -1,0 +1,44 @@
+<Kandeepa> will spend 20 percent of his time gathering information from business analysts and system analysts, preparing technical design specification, and going over the technical design with architects, system analysts and business analysts.
+
+
+
+
+<Kandeepa>  will spend 60 percent of his time developing frameworks, single-page applications, and other application core components using testing-driven development and agile development methodologies using frameworks and programming languages including Java, spring boot, spring framework, angular, reactjs, and Amazon Web Services. Design and develop integration layers for interfacing with third-party reset and soap services.
+To integrate the front-end with the back-end, work with the service and content hub teams.
+Develop unit tests for application components using JUnit and testNG.
+Develop unit tests for single-page applications using jasmine, jest, and spectator
+Assess unit test results for compliance with system and functional requirements.
+Utilize tools like sonar, fortify, eslint and codelyzer to run static code analysis tests on application code.
+
+
+
+Provide technical walkthroughs and knowledge transfer sessions for development teams
+
+
+<Kandeepa> will spend 10 percent of his time guiding the development team through technical walkthroughs consisting of code reviews, defining development guidelines and best practices, assigning tasks, and reviewing work products to ensure the products meet the design specifications and quality guidelines.	
+
+
+
+<Kandeepa> will spend 5 percent of his time participating in daily scrum meetings, application development planning, status and review meetings such as agile pi planning, sprint planning, scrum, and retrospection.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
