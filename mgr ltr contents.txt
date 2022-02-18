@@ -21,6 +21,14 @@ Provide technical walkthroughs and knowledge transfer sessions for development t
 
 <Kandeepa> will spend 5 percent of his time participating in daily scrum meetings, application development planning, status and review meetings such as agile pi planning, sprint planning, scrum, and retrospection.
 
+Analysis and gathering of business and system requirements.
+Develop a detailed design of the system and document the design.
+Analyze requirements, write code, review, and test code.
+Release planning, status monitoring, and development
+Provide technical leadership to the application development team
+Engage in architectural discussions with the client team
+Mentor the technical team
+
 
 
 
